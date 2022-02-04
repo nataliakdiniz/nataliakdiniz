@@ -1,6 +1,6 @@
 ### ✨ Olá! ✨
 
-Sou Natália Diniz, desenvolvedora frontend e apaixonada por café! 👩🏻‍💻
+Sou Natália Diniz, estudante de programação e apaixonada por café! 👩🏻‍💻
 
 <div align="center">
   <a href="https://github.com/nataliakdiniz">
