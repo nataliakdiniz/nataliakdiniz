@@ -1,4 +1,4 @@
-### ✨ Olá! ✨
+### ✨ HELLO! ✨
 
 Sou Natália Diniz, estudante de programação e apaixonada por café! 👩🏻‍💻
 
